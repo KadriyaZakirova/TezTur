@@ -1,0 +1,67 @@
+@media (max-width: 1200px) {}
+
+@media(max-width: 991px) {
+    .slider {
+        width: 970px;
+
+    }
+
+    .wrapper .controls {
+        left: 40%;
+    }
+
+    .price_card-backgroundone {
+        width: 425px;
+    }
+
+}
+
+@media(max-width: 778px) {
+    .visit_left-title {
+        width: 490px;
+    }
+
+    .hero_content-title {
+        font-size: 59px;
+    }
+
+    .visit_left-subtitleone {
+        width: 480px;
+    }
+
+    .visit_left-subtitleone {
+        width: 480px;
+    }
+
+    .visit_left-subtitle {
+        width: 480px;
+    }
+
+    .visit_right {
+        padding-left: 15px;
+    }
+
+    .visit_right-line {
+        width: 200px;
+    }
+
+    .wrapper .controls {
+        left: 32%;
+    }
+
+    .price_card-backgroundtwo {
+        margin-bottom: 15px;
+        width: 336px;
+
+    }
+
+    .price_card-backgroundone {
+        width: 336px;
+        margin-bottom: 15px;
+    }
+
+    .price_card-text {
+        font-size: 24px;
+    }
+
+}
